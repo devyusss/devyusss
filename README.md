@@ -1,4 +1,4 @@
-!(https://github.com/devyusss/devyusss/blob/main/yusra.jpeg)
+![Computer Engineer](https://github.com/devyusss/devyusss/blob/main/yusra.jpeg)
 
 # Hi there 👋
 
