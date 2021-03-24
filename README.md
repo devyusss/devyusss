@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yüsra from Turkey. I'm a computer engineering student. I'm web development. I am trying to improve myself in artificial intelligence and data.
+I'm Yüsra from Turkey. I'm a computer engineering student. I'm front-end developer. I am trying to improve myself in artificial intelligence and data.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyusss&theme=radical&hide_langs_belows=1&layout=compact" />
