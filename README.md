@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-I'm Yüsra from Turkey. I'm a computer engineering student. I'm front-end developer. I am trying to improve myself in artificial intelligence and data.
+I'm Yüsra from Turkey. I'm a computer engineering student.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyusss&theme=radical&hide_langs_belows=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devyusss&show_icons=true&theme=radical&line_height=21" alt="Yüsra's github stats" />
 </p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devyusss)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yusradagilma/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://yusradagilma.medium.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/haydivenuse)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='Youtube' height='40'>](https://www.youtube.com/channel/UCJtUvRJTH_KY5IVu8_94W3Q)  
